@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="alarm_array">
+        <item>pick a sound</item>
+        <item>buzzer</item>
+        <item>door bell</item>
+        <item>foghorn</item>
+        <item>hell</item>
+        <item>school bell</item>
+        <item>submarine</item>
+        <item>watch alarm</item>
+    </string-array>
+
+</resources>
